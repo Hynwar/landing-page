@@ -220,3 +220,13 @@ button {
   padding: 1rem 2rem;
   border: 2px solid var(--white-color);
 }
+
+/* Footer Section */
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--dark-color);
+  color: var(--white-color);
+  padding: 2rem;
+}
